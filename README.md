@@ -1,3 +1,5 @@
+*Note: Contrary to GitHub's assertion, this is NOT written in Objective-C. It is written primarily in C++, with an interface to Python.*
+
 # Noisypy
 
 Noisypy is a set of "pythonic" bindings for the procedural noise generation library [libnoise](http://libnoise.sourceforge.net/). It is indended to offer the growing community of games written in Python access to a well-established PCG library. Although libnoise is quite old -- it was last updated in 2007 -- it is quite feature-complete, and functions orders of magnitude faster than noise algorithms written in Python itself.
