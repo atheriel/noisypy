@@ -1,6 +1,12 @@
 noisypy.modules
 ===============
 
+.. toctree::
+   :maxdepth: 2
+
+   modules/generators
+   modules/modifiers
+
 .. autosummary::
 	
 	noisypy.modules.Module
