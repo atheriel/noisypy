@@ -1,0 +1,3 @@
+[submodule "doc/_theme/noisypy"]
+	path = doc/_theme/noisypy
+	url = git@github.com:atheriel/noisypy-sphinx-theme.git
